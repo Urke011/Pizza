@@ -1,0 +1,17 @@
+﻿@page
+@model RazorPizzeria.Pages.Forms.CustomPizzaModel
+@{
+}
+<div class="text-center container">
+    <h1>Creat your own Pizza</h1>
+    <form method="post" class="mx-auto mt-5 mb-5 px-5 pt-5 rounded-5 bg-light col-4 ">
+        <input type"text" asp-for="Pizza.PizzaName" placeholder="Give your pizza name......"/><br />
+        <!--<input type="text"  asp-for="Pizza.BasePrice" placeholder="BasePrice"/><br />-->
+        <input type="checkbox"  asp-for="Pizza.TomatoSauce" placeholder="TomatoSauce......"/>TomatoSauce<br />
+        <input type="checkbox"  asp-for="Pizza.Cheese" placeholder="Cheese......"/>Cheese<br />
+        <input type="checkbox"  asp-for="Pizza.Peperoni" placeholder="Peperoni......"/>Peperoni<br />
+        <input type="checkbox"  asp-for="Pizza.Mushroom" placeholder="Mushroom......"/>Mushroom<br />
+        <!--<input type="text"  asp-for="Pizza.FinalPrice" placeholder="FinalPrice"/><br />-->
+        <button class="btn btn-primary mt-1" type="submit">Order my Pizza</button>
+    </form>
+</div>
