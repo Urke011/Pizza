@@ -8,19 +8,24 @@
     "net6.0": []
   },
   "packageFolders": {
-    "C:\\Users\\urajkovic\\.nuget\\packages\\": {}
+    "C:\\Users\\URAJKOVIC\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\urajkovic\\Desktop\\c#app\\RazorPizzeria\\RazorPizzeria.csproj",
+      "projectUniqueName": "C:\\Users\\URAJKOVIC\\OneDrive - MATHEMA GmbH\\Desktop\\Pizza\\RazorPizzeria.csproj",
       "projectName": "RazorPizzeria",
-      "projectPath": "C:\\Users\\urajkovic\\Desktop\\c#app\\RazorPizzeria\\RazorPizzeria.csproj",
-      "packagesPath": "C:\\Users\\urajkovic\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\urajkovic\\Desktop\\c#app\\RazorPizzeria\\obj\\",
+      "projectPath": "C:\\Users\\URAJKOVIC\\OneDrive - MATHEMA GmbH\\Desktop\\Pizza\\RazorPizzeria.csproj",
+      "packagesPath": "C:\\Users\\URAJKOVIC\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\URAJKOVIC\\OneDrive - MATHEMA GmbH\\Desktop\\Pizza\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
       "configFilePaths": [
-        "C:\\Users\\urajkovic\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\URAJKOVIC\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -63,7 +68,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
       }
     }
   }

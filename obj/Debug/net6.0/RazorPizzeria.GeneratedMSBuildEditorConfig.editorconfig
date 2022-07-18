@@ -8,53 +8,53 @@ build_property.PlatformNeutralAssembly =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = RazorPizzeria
 build_property.RootNamespace = RazorPizzeria
-build_property.ProjectDir = C:\Users\urajkovic\Desktop\c#app\RazorPizzeria\
+build_property.ProjectDir = C:\Users\URAJKOVIC\OneDrive - MATHEMA GmbH\Desktop\Pizza\
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\urajkovic\Desktop\c#app\RazorPizzeria
+build_property.MSBuildProjectDirectory = C:\Users\URAJKOVIC\OneDrive - MATHEMA GmbH\Desktop\Pizza
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/urajkovic/Desktop/c\#app/RazorPizzeria/Pages/Checkout/Checkout.cshtml]
+[C:/Users/URAJKOVIC/OneDrive - MATHEMA GmbH/Desktop/Pizza/Pages/Checkout/Checkout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ2hlY2tvdXRcQ2hlY2tvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/urajkovic/Desktop/c\#app/RazorPizzeria/Pages/Checkout/ThankYou.cshtml]
+[C:/Users/URAJKOVIC/OneDrive - MATHEMA GmbH/Desktop/Pizza/Pages/Checkout/ThankYou.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ2hlY2tvdXRcVGhhbmtZb3UuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/urajkovic/Desktop/c\#app/RazorPizzeria/Pages/Error.cshtml]
+[C:/Users/URAJKOVIC/OneDrive - MATHEMA GmbH/Desktop/Pizza/Pages/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/urajkovic/Desktop/c\#app/RazorPizzeria/Pages/Forms/CustomPizza.cshtml]
+[C:/Users/URAJKOVIC/OneDrive - MATHEMA GmbH/Desktop/Pizza/Pages/Forms/CustomPizza.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRm9ybXNcQ3VzdG9tUGl6emEuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/urajkovic/Desktop/c\#app/RazorPizzeria/Pages/Index.cshtml]
+[C:/Users/URAJKOVIC/OneDrive - MATHEMA GmbH/Desktop/Pizza/Pages/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/urajkovic/Desktop/c\#app/RazorPizzeria/Pages/Pizza.cshtml]
+[C:/Users/URAJKOVIC/OneDrive - MATHEMA GmbH/Desktop/Pizza/Pages/Pizza.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUGl6emEuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/urajkovic/Desktop/c\#app/RazorPizzeria/Pages/Privacy.cshtml]
+[C:/Users/URAJKOVIC/OneDrive - MATHEMA GmbH/Desktop/Pizza/Pages/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJpdmFjeS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/urajkovic/Desktop/c\#app/RazorPizzeria/Pages/Shared/_ValidationScriptsPartial.cshtml]
+[C:/Users/URAJKOVIC/OneDrive - MATHEMA GmbH/Desktop/Pizza/Pages/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/urajkovic/Desktop/c\#app/RazorPizzeria/Pages/_ViewImports.cshtml]
+[C:/Users/URAJKOVIC/OneDrive - MATHEMA GmbH/Desktop/Pizza/Pages/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/urajkovic/Desktop/c\#app/RazorPizzeria/Pages/_ViewStart.cshtml]
+[C:/Users/URAJKOVIC/OneDrive - MATHEMA GmbH/Desktop/Pizza/Pages/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/urajkovic/Desktop/c\#app/RazorPizzeria/Pages/Shared/_Layout.cshtml]
+[C:/Users/URAJKOVIC/OneDrive - MATHEMA GmbH/Desktop/Pizza/Pages/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-e2qcxc8obp
